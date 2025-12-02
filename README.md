@@ -571,7 +571,7 @@ file inside the archive. Inner paths are separated with `!`.
 Example finding (shortened for brevity):
 
 ```
-Finding:     DB_PASSWORD=8ae31cacf141669ddfb5da
+
 ...
 File:        testdata/archives/nested.tar.gz!archives/files.tar!files/.env.prod
 Line:        4
